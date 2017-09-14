@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view_ActiveCheckin="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="25sp"
+        android:text="Tab1"
+        android:layout_marginTop="40dp"
+        android:id="@+id/textTab1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnTEST1"
+        android:text="TESTBTN 1"
+        />
+    <android.support.design.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:fitsSystemWindows="true"
+        tools:context=".ActiveCheckIn"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view_active_checkin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+    /> -->
+
+
+    <android.support.constraint.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/servicesButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="Services"
+            design:layout_constraintTop_toTopOf="parent"
+            android:layout_marginTop="51dp"
+            android:layout_marginLeft="25dp"
+            design:layout_constraintLeft_toLeftOf="parent" />
+
+        <Button
+            android:id="@+id/billButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginTop="50dp"
+            android:text="Bill"
+            design:layout_constraintLeft_toLeftOf="parent"
+            design:layout_constraintTop_toBottomOf="@+id/servicesButton" />
+
+        <Button
+            android:id="@+id/menuButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="51dp"
+            android:text="Menu"
+            design:layout_constraintTop_toTopOf="parent"
+            android:layout_marginRight="25dp"
+            design:layout_constraintRight_toRightOf="parent" />
+
+        <Button
+            android:id="@+id/InqueriesButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="25dp"
+            android:layout_marginTop="50dp"
+            android:text="Inqueries"
+            design:layout_constraintRight_toRightOf="parent"
+            design:layout_constraintTop_toBottomOf="@+id/menuButton" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.design.widget.CoordinatorLayout>

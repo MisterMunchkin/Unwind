@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\bottom_navigation_item_background_colors.xml",
+        "source": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\src\\main\\res\\color\\bottom_navigation_item_background_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\978526b15ee2eeadec193c9c2dba0f86838850d9\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    }
+]
