@@ -20,12 +20,16 @@
         "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_of_services.xml",
+        "source": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\src\\main\\res\\layout\\list_of_services.xml"
     },
     {
         "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_launching_page.xml",
         "source": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\src\\main\\res\\layout\\activity_launching_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Munchkin\\.android\\build-cache\\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\\output\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\Users\\Munchkin\\AndroidStudioProjects\\Unwind\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
