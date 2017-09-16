@@ -1,5 +1,6 @@
 package com.unwind.munchkin.unwind;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -36,6 +37,8 @@ public class launchingPageTab1Fragment extends Fragment{
             public void onClick(View v) {
                 Toast.makeText(getActivity(), "start services list activity",
                         Toast.LENGTH_LONG).show();
+                Intent intent = new Intent(getActivity(), ListOfServices.class);
+                startActivity(intent);
             }
         });
        /* recyclerView = (RecyclerView) view.findViewById(R.id.recycler_view_active_checkin);

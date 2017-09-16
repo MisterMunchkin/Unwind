@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml
@@ -18,7 +18,7 @@ ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:6:5-26:19
+ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:6:5-27:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Munchkin\.android\build-cache\6a7e4304b74e3618222059afbae9eb3bbfa38c20\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\Munchkin\.android\build-cache\978526b15ee2eeadec193c9c2dba0f86838850d9\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Munchkin\.android\build-cache\5a24e30bbc1e9ffc9a5574d74d2088c0fb2caa23\output\AndroidManifest.xml:29:5-20
@@ -74,6 +74,10 @@ activity#com.unwind.munchkin.unwind.AddBookingPage
 ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:25:9-61
 	android:name
 		ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:25:19-49
+activity#com.unwind.munchkin.unwind.ListOfServices
+ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml:26:19-49
 uses-sdk
 INJECTED from C:\Users\Munchkin\AndroidStudioProjects\Unwind\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Munchkin\.android\build-cache\6a7e4304b74e3618222059afbae9eb3bbfa38c20\output\AndroidManifest.xml:5:5-7:41
